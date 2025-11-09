@@ -1,0 +1,17 @@
+# VS2022 临时文件
+.vs/
+*.vcxproj
+*.filters
+*.user
+*.sln
+*.obj
+*.pdb
+*.ilk
+*.exe
+Debug/
+Release/
+x64/
+
+# 系统文件
+Thumbs.db
+.DS_Store
